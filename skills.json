@@ -61,7 +61,7 @@
   },
   {
     "name": "SSRS",
-    "icon": "assets/images/skills/onelake.png"
+    "icon": "assets/images/skills/ssrs-removebg-preview.png"
   },
   {
     "name": "SSIS",
@@ -69,11 +69,11 @@
   },
   {
     "name": "DevOps",
-    "icon": "https://img.icons8.com/color/48/ssrs-removebg-preview.png"
+    "icon": "assets/images/skills/devops-removebg-preview.png"
   },
   {
     "name": "Semantic Modeling",
-    "icon": "https://img.icons8.com/color/48/combo-chart--v1.png"
+    "icon": "assets/images/skills/semantic_model-removebg-preview.png"
   },
   {
     "name": "ETL",
